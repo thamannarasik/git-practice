@@ -1,0 +1,15 @@
+/Users/thamannarasik/c#projects/csharpprojects/bin/Debug/net8.0/csharpprojects
+/Users/thamannarasik/c#projects/csharpprojects/bin/Debug/net8.0/csharpprojects.deps.json
+/Users/thamannarasik/c#projects/csharpprojects/bin/Debug/net8.0/csharpprojects.runtimeconfig.json
+/Users/thamannarasik/c#projects/csharpprojects/bin/Debug/net8.0/csharpprojects.dll
+/Users/thamannarasik/c#projects/csharpprojects/bin/Debug/net8.0/csharpprojects.pdb
+/Users/thamannarasik/c#projects/csharpprojects/obj/Debug/net8.0/csharpprojects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thamannarasik/c#projects/csharpprojects/obj/Debug/net8.0/csharpprojects.AssemblyInfoInputs.cache
+/Users/thamannarasik/c#projects/csharpprojects/obj/Debug/net8.0/csharpprojects.AssemblyInfo.cs
+/Users/thamannarasik/c#projects/csharpprojects/obj/Debug/net8.0/csharpprojects.csproj.CoreCompileInputs.cache
+/Users/thamannarasik/c#projects/csharpprojects/obj/Debug/net8.0/csharpprojects.sourcelink.json
+/Users/thamannarasik/c#projects/csharpprojects/obj/Debug/net8.0/csharpprojects.dll
+/Users/thamannarasik/c#projects/csharpprojects/obj/Debug/net8.0/refint/csharpprojects.dll
+/Users/thamannarasik/c#projects/csharpprojects/obj/Debug/net8.0/csharpprojects.pdb
+/Users/thamannarasik/c#projects/csharpprojects/obj/Debug/net8.0/csharpprojects.genruntimeconfig.cache
+/Users/thamannarasik/c#projects/csharpprojects/obj/Debug/net8.0/ref/csharpprojects.dll
